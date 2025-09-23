@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LlamaIntegration.cpp.obj": [
+			"LlamaFunctionLibrary.gen.cpp.obj",
+			"LlamaIntegration.init.gen.cpp.obj",
+			"LlamaFunctionLibrary.cpp.obj",
+			"LlamaIntegration.cpp.obj"
+		]
+	}
+}

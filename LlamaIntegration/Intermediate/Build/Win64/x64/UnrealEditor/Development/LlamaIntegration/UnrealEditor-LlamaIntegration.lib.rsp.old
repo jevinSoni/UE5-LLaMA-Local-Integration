@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LlamaIntegration.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Office\Unreal Engine\VideoStream\Intermediate\Build\Win64\x64\VideoStreamEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\Office\Unreal Engine\VideoStream\Plugins\LlamaIntegration\Intermediate\Build\Win64\x64\UnrealEditor\Development\LlamaIntegration\Module.LlamaIntegration.cpp.obj"
+"E:\Office\Unreal Engine\VideoStream\Plugins\LlamaIntegration\Intermediate\Build\Win64\x64\UnrealEditor\Development\LlamaIntegration\Default.rc2.res"
+/OUT:"E:\Office\Unreal Engine\VideoStream\Plugins\LlamaIntegration\Intermediate\Build\Win64\x64\UnrealEditor\Development\LlamaIntegration\UnrealEditor-LlamaIntegration.lib"

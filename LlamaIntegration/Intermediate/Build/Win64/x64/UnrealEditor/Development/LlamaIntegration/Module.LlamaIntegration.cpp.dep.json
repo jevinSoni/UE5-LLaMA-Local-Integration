@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\llamaintegration\\module.llamaintegration.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\office\\unreal engine\\videostream\\intermediate\\build\\win64\\x64\\videostreameditor\\development\\engine\\sharedpch.engine.rtti.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\llamaintegration\\definitions.llamaintegration.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\intermediate\\build\\win64\\unrealeditor\\inc\\llamaintegration\\uht\\llamafunctionlibrary.gen.cpp",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\llamafunctionlibrary.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\thirdparty\\llama\\include\\llama.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\thirdparty\\llama\\include\\ggml.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\thirdparty\\llama\\include\\ggml-cpu.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\thirdparty\\llama\\include\\ggml-backend.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\thirdparty\\llama\\include\\ggml-alloc.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\intermediate\\build\\win64\\unrealeditor\\inc\\llamaintegration\\uht\\llamafunctionlibrary.generated.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\intermediate\\build\\win64\\unrealeditor\\inc\\llamaintegration\\uht\\llamaintegration.init.gen.cpp",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\private\\llamafunctionlibrary.cpp",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\omp.h",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\private\\llamaintegration.cpp",
+            "e:\\office\\unreal engine\\videostream\\plugins\\llamaintegration\\source\\llamaintegration\\public\\llamaintegration.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
