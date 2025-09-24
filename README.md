@@ -1,5 +1,7 @@
 # UE5-LLaMA-Local-Integration
 
+Integrated the official llama.cpp repository into Unreal Engine 5 by compiling it into a pre-compiled Windows DLL library (packaged with the project for execution) and building it as a static .a library for Android (ARM64), enabling dependency-free packaging and seamless cross-platform AI integration.
+
 This project integrates a **local LLaMA-based language model** into **Unreal Engine 5**, with support for both **Windows** and **Android (ARM64)** platforms.
 
 It uses the efficient **GGUF format** and is built on top of **llama.cpp** to provide **offline**, **privacy-focused**, and **API-free** AI interaction right inside your Unreal project.
